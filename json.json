@@ -1,0 +1,68 @@
+{
+    "responses": [
+        {
+            "labelannotations": [
+                {
+                    "description": "flower", 
+                    "mid": "/m/0c9ph5", 
+                    "score": 0.98804855, 
+                    "topicality": 0.98804855
+                }, 
+                {
+                    "description": "flora", 
+                    "mid": "/m/03bmqb", 
+                    "score": 0.9510977, 
+                    "topicality": 0.9510977
+                }, 
+                {
+                    "description": "plant", 
+                    "mid": "/m/05s2s", 
+                    "score": 0.8850656, 
+                    "topicality": 0.8850656
+                }, 
+                {
+                    "description": "wildflower", 
+                    "mid": "/m/03f35r", 
+                    "score": 0.8206624, 
+                    "topicality": 0.8206624
+                }, 
+                {
+                    "description": "primula", 
+                    "mid": "/m/01f83d", 
+                    "score": 0.80827767, 
+                    "topicality": 0.80827767
+                }, 
+                {
+                    "description": "flowering plant", 
+                    "mid": "/m/04sjm", 
+                    "score": 0.74550307, 
+                    "topicality": 0.74550307
+                }, 
+                {
+                    "description": "petal", 
+                    "mid": "/m/016q19", 
+                    "score": 0.72219896, 
+                    "topicality": 0.72219896
+                }, 
+                {
+                    "description": "annual plant", 
+                    "mid": "/m/0jqb", 
+                    "score": 0.6083472, 
+                    "topicality": 0.6083472
+                }, 
+                {
+                    "description": "macro photography", 
+                    "mid": "/m/03rbf6", 
+                    "score": 0.55923593, 
+                    "topicality": 0.55923593
+                }, 
+                {
+                    "description": "herbaceous plant", 
+                    "mid": "/m/01j03x", 
+                    "score": 0.55742294, 
+                    "topicality": 0.55742294
+                }
+            ]
+        }
+    ]
+}
